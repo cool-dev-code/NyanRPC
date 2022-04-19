@@ -3,6 +3,9 @@ Mini Discord RPC Client (using Electron and Node.js)
 
 ## Change log
 
+- v1.1.0: Update Popup (About), Auto Save Presence to file
+  - [Download](https://github.com/aiko-chan-ai/NyanRPC/releases/download/1.1.0/nyan.exe)
+
 - v1.0.0: All function working !
   - [Download](https://github.com/aiko-chan-ai/NyanRPC/releases/download/1.0.0/nyan.exe)
 
