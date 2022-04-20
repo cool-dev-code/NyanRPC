@@ -1,5 +1,5 @@
 # NyanRPC
-Mini Discord RPC Client (using Electron and Node.js)
+Mini Discord RPC Client (using Electron and Node.js + 7z SFX [exe file])
 
 ## Change log
 
