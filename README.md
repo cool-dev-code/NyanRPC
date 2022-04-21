@@ -19,5 +19,6 @@ Mini Discord RPC Client (using Electron and Node.js + 7z SFX [exe file])
 <table>
     <tr>
       <td align="center"><a href="https://github.com/hongduccodedao"><img src="https://avatars.githubusercontent.com/u/73995275" width="100px;" alt="."/><br/><sub><b>PinkDuwc._#3443</b></sub></a><br/><a href="#design-hongduccodedao" title="Design">🎨</a></td>
+      <td align="center"><a href="https://github.com/aiko-chan-ai"><img src="https://avatars.githubusercontent.com/u/71698422" width="100px;" alt="."/><br/><sub><b>Shiraori#1782</b></sub></a><br/><a href="#code-aiko-chan-ai" title="Code">💻</a></td>
     </tr>
   </table>
