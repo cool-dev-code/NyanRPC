@@ -1,7 +1,11 @@
 # NyanRPC
 Mini Discord RPC Client (using Electron and Node.js + 7z SFX [exe file])
 
+- Latest Release: [Here](https://github.com/aiko-chan-ai/NyanRPC/releases)
+
 ## Change log
+- v1.3.0: From version 1.3.0, I will not write changes here. You can go to the release to see
+  - [Download](https://github.com/aiko-chan-ai/NyanRPC/releases/download/1.3.0/nyan.exe)
 
 - v1.2.0: Update Popup (Console log)
   - [Download](https://github.com/aiko-chan-ai/NyanRPC/releases/download/1.2.0/nyan.exe)
