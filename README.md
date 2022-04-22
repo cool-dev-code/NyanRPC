@@ -1,6 +1,7 @@
 # NyanRPC
 Mini Discord RPC Client (using Electron and Node.js + 7z SFX [exe file])
 
+You can use the installation file (v1.3.0 or later)
 - Latest Release: [Here](https://github.com/aiko-chan-ai/NyanRPC/releases)
 
 ## Change log
