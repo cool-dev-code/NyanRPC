@@ -4,21 +4,11 @@ Mini Discord RPC Client (using Electron and Node.js + 7z SFX [exe file])
 You can use the installation file (v1.3.0 or later)
 - Latest Release: [Here](https://github.com/aiko-chan-ai/NyanRPC/releases)
 
-## Change log
-- v1.3.0: From version 1.3.0, I will not write changes here. You can go to the release to see
-  - [Download](https://github.com/aiko-chan-ai/NyanRPC/releases/download/1.3.0/nyan.exe)
-
-- v1.2.0: Update Popup (Console log)
-  - [Download](https://github.com/aiko-chan-ai/NyanRPC/releases/download/1.2.0/nyan.exe)
-
-- v1.1.0: Update Popup (About), Auto Save Presence to file
-  - [Download](https://github.com/aiko-chan-ai/NyanRPC/releases/download/1.1.0/nyan.exe)
-
-- v1.0.0: All function working !
-  - [Download](https://github.com/aiko-chan-ai/NyanRPC/releases/download/1.0.0/nyan.exe)
-
-## Screenshot
+## Screenshot v1
 <img src="https://cdn.discordapp.com/attachments/820557032016969751/965666994085060678/unknown.png" alt="preview1">
+
+## Screenshot v2 (Windows + Linux)
+<img src="https://cdn.discordapp.com/attachments/878276279105884210/1004338020746539059/unknown.png" alt="preview1">
 
 ## Collaborator(s)
 <table>
